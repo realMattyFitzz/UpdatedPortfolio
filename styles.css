@@ -28,3 +28,7 @@ h1 {
 .links {
     padding-left: 30%;
 }
+
+a {
+    align-items: center;
+}

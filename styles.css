@@ -1,0 +1,30 @@
+body {
+    background: black;
+}
+p {
+    color: slategray;
+    font-size: larger;
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 2.5%;
+    font-family: 'Montserrat', sans-serif;
+}
+.fas {
+    color: aqua;
+}
+.container {
+ margin: 5%;
+ padding-bottom: 2.5%;
+}
+.github{
+    color:white;
+}
+.linkedin {
+    color: rgb(14, 118, 168);
+}
+.links {
+    padding-left: 30%;
+}
